@@ -96,7 +96,7 @@ $ sudo reboot
 
 再起動後、ifconfigでeth1のIPアドレスが変更されていることを確認してください。
 
-## jupiterの起動
+## jupyterの起動
 
 ログイン後、以下のコマンドを実行してください。
 
