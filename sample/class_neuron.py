@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 class Neuron:
     def __init__(self):
         self.b = 0
@@ -25,4 +28,3 @@ print(n.func(x))
 
 # 課題
 # これをfor文を使わずにnumpyで書く
-
